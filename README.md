@@ -81,7 +81,9 @@ Port 443: OPEN
 - Use a safe test environment or IPs such as `scanme.nmap.org` or test IP ranges like `192.0.2.0/24`.
 
 ## **License**
-This project is licensed under the MIT License - see the LICENSE file for details.
+
+This project is licensed under the MIT License - see the [MIT License](LICENSE) file for details.
+
 
 ## **Author**
 - **İbrahim Eren SEVEN** - Initial work - [GitHub Profile](https://github.com/ibrhmies)
